@@ -11,3 +11,6 @@ This is my fifth Assignment (Part 1): [Assignment 5: Part 1](assignment5_part1.h
 This is my fifth Assignment (Part 2): [Assignment 5: Part 2](assignment5_part2.html)
 
 This is my sixth Assignment: [Assignment 6](assignment6.html)
+ 
+This is my seventh Assignment: [Assignment 7](assignment7.html)[Link to the plot](abc.png)
+
