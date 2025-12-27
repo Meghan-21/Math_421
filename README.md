@@ -14,7 +14,7 @@ This is my fifth Assignment (Part 2): [Assignment 5: Part 2](assignment5_part2.h
 
 This is my sixth Assignment: [Assignment 6](assignment6.html)
  
-This is my seventh Assignment: [Assignment 7](assignment7.html)[Link to the plot](abc.png)
+This is my seventh Assignment: [Assignment 7](assignment7.html) [Link to the plot](abc.png)
 
 This is my eighth Assignment: [Assignment 8](assignment8--1-.html)
 
