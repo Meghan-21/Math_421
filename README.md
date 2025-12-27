@@ -20,4 +20,7 @@ This is my eighth Assignment: [Assignment 8](assignment8--1-.html)
 
 This is my tenth Assignment: [Assignment 10](assignment10.html)
 
+This is my midterm project: [Midterm Project]()
+
 This is my thirteenth Assignment: [Assignment 13](assignment13_optional.html)
+
