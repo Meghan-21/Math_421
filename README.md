@@ -22,7 +22,7 @@ This is my ninth Assignment: [Assignment 9](assignment9.html)
 
 This is my tenth Assignment: [Assignment 10](assignment10.html)
 
-This is my eleventh Assignment: [Assignment 11](assignment11-inprogress-.html)
+This is my in progress eleventh Assignment: [Assignment 11](assignment11-inprogress-.html)
 
 This is my midterm project: [Midterm Project](midterm_tab.html)
 
@@ -30,5 +30,5 @@ This is my midterm project presentation: [Midterm Presentation](Midterm-Presenta
 
 This is my thirteenth Assignment: [Assignment 13](assignment13_optional.html) 
 
-This is my final project: [Final Project](final.html)
+This is my final project: [Final Project](Final2.html)
 
