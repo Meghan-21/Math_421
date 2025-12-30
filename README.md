@@ -18,6 +18,8 @@ This is my sixth Assignment: [Assignment 6](assignment6.html)
  
 This is my seventh Assignment: [Assignment 7](assignment7.html) [Link to the plot](abc.png)
 
+This is my extra credit for the seventh Assignment: [Assignment 7 Extra Credit](assignment7_extra_credits.html)
+
 This is my eighth Assignment: [Assignment 8](assignment8--1-.html)
 
 This is my ninth Assignment: [Assignment 9](assignment9.html)
