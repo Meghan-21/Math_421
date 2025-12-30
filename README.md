@@ -8,6 +8,8 @@ This is my third Assignment: [Assignment 3](assignment3.html)
 
 This is my fourth Assignment: [Assignment 4](assignment4.html)
 
+This is my extra credit for the fourth Assignment: [Assignment 4 Extra Credit](assignment4_extra_credits.html)
+
 This is my fifth Assignment (Part 1): [Assignment 5: Part 1](assignment5_part1.html)
 
 This is my fifth Assignment (Part 2): [Assignment 5: Part 2](assignment5_part2.html)
